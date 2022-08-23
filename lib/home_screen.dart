@@ -8,6 +8,9 @@ static const String routName='Home';
       appBar: AppBar(
         title: Text('islami'),
       ),
+      body: Column(children: [
+        Text('ssdasd')
+      ],),
     );
   }
 }
